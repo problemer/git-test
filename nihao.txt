@@ -1,0 +1,7 @@
+使用到了的命令行
+
+pwd 查看当前路径
+cd 文件夹名，进入文件夹
+
+git clone url 从远程仓库clone到本地
+git log  在工作环境中查看日志

@@ -1,0 +1,23 @@
+使用到了的命令行
+
+pwd 查看当前路径
+cd 文件夹名，进入文件夹
+
+git clone url 从远程仓库clone到本地
+git log  在工作环境中查看日志
+
+git status 每次提交代码之前看一下工作区的状态是个好习惯
+
+git add  文件 将更新的文件加入暂存区（stage）（暂时这么理解）
+
+git status
+
+git commit
+
+再次查看一下日志
+git log 
+
+git add 文件名 和git commit 可以整合为一步 
+git commit -a
+
+
